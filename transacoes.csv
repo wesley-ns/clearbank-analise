@@ -1,0 +1,21 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salario janeiro,salario
+2,2026-01-08,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-10,CLI003,credito,12500.00,Bonus anual,transferencia
+4,2026-01-15,CLI004,debito,450.75,Combustivel,transporte
+5,2026-01-22,CLI005,debito,120.00,Internet,conta
+6,2026-02-03,CLI001,debito,320.00,Conta de luz,conta
+7,2026-02-08,CLI002,credito,4200.00,Pagamento servicos,salario
+8,2026-02-12,CLI003,debito,99.90,Streaming,assinatura
+9,2026-02-18,CLI004,credito,15000.00,Transferencia recebida,transferencia
+10,2026-02-25,CLI005,debito,850.00,Compra de eletronicos,compra
+11,2026-03-01,CLI001,credito,3500.00,Salario marco,salario
+12,2026-03-09,CLI002,debito,240.00,Restaurante,alimentacao
+13,2026-03-15,CLI003,debito,1800.00,Parcela veiculo,financiamento
+14,2026-03-20,CLI004,credito,5200.00,Prestacao de servicos,transferencia
+15,2026-04-02,CLI005,debito,75.50,Farmacia,saude
+16,2026-04-05,CLI001,debito,abc,Valor invalido,compra
+17,2026-04-08,,debito,250.00,Cliente ausente,transferencia
+18,2026-04-10,CLI003,saque,500.00,Tipo invalido,compra
+19,2026-13-15,CLI004,credito,1000.00,Data invalida,transferencia
+20,2026-04-20,CLI005,credito,-500.00,Valor negativo,transferencia
